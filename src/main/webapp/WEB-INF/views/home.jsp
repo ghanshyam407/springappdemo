@@ -20,8 +20,8 @@
 <p>Recommended: Using a Web Developer tool such a Firebug to inspect the client/server interaction</p>
 <div id="tabs">
 	<ul>
-		<li><a href="#simple">Simple</a></li>
-		<li><a href="#mapping">Request Mapping</a></li>
+		<li><a href="#simple">Simple1</a></li>
+		<li><a href="#mapping">Request Mapping1</a></li>
 		<li><a href="#data">Request Data</a></li>
 		<li><a href="#responses">Response Writing</a></li>
 		<li><a href="#messageconverters">Message Converters</a></li>
